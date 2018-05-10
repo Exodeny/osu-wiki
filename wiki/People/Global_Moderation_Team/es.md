@@ -9,17 +9,17 @@ El **Equipo de Moderación Global** (formalmente conocido como Administrador, Eq
 Convirtiéndose en un GMT
 ------------------------
 
-Convertirse en un miembro del "'Equipo de Moderación Global'" es un proceso intricado y complicado. Miembros potenciales son comunmente seleccionados por su habilidad de hablar un segundo idioma, después son discutidos por el equipo por su posible potencial como miembro.
+Convertirse en un miembro del Equipo de moderación global requiere una cantidad notable de contribución. Los miembros potenciales a menudo son notados por su disposición a ayudar a otros usuarios, la actividad dentro de la comunidad y el buen comportamiento. La capacidad de hablar idiomas distintos del inglés es muy preferible. Los candidatos son discutidos dentro del equipo para determinar su potencial adición como miembro del equipo.
 
 Roles y Responsabilidades
 -------------------------
 
-El Equipo de Moderación Global es responsable del bienestar del chat/foro y se encarga de las interacciones con la comunidad. Deben ser contactados si tienes alguna pregunta pertinente al aspecto de la moderación del juego, que incluye (pero no se limita a) problemas con el chat (silencios, acoso) y el foro (spam).
+El "Equipo de Moderación Global" es responsable del bienestar del chat/foro y se encarga de las interacciones con la comunidad. Deben ser contactados si tienes alguna pregunta pertinente al aspecto de la moderación del juego, que incluye (pero no se limita a) problemas con el chat (silencios, acoso) y el foro (spam).
 
 Miembros del equipo
 -------------------
 
-*Ten en cuenta: Todos los miembros del GMT hablan inglés a menos que se diga lo contrario.* - [Página del equipo](http://osu.ppy.sh/g/4)
+*Ten en cuenta: Todos los miembros de GMT hablan inglés además del/los idioma(s) enumerados a continuación, a menos que se indique lo contrario.* - [Página del equipo](http://osu.ppy.sh/g/4)
 
 | Nombre | Idioma | Enfoque |
 | ------ | ------ | ------- |
